@@ -3,5 +3,8 @@
   "plugins": [
     "hints",
     "tabs"
-  ]
+  ],
+  "styles": {
+    "website": "styles/website.css"
+  }
 }

@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "https://<https://meetingtw.gitbook.io/guide/>/$1" }
+  ]
+}

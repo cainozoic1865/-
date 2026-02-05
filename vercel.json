@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/(.*)", "destination": "https://meetingtw.gitbook.io/$1" }
-  ]
-}

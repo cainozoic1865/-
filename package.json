@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "My GitBook Documentation",
   "scripts": {
-    "build": "honkit build",
+    "build": "honkit build ./ _book",
     "serve": "honkit serve"
   },
-  "devDependencies": {
+  "dependencies": {
     "honkit": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }

@@ -11,11 +11,11 @@ coverY: 0
 3. 活動參加者參與活動即被視為明⽩並願意遵守所有 **WensCo** 場地使⽤規範。**WensCo** 有權隨時更改條款及細則⽽毋須另⾏通知，⽽該更改亦適⽤於未來或現有的參加者。<br>
 4. **WensCo** 保留修改、變更或暫停場地使用規範之權利，如有爭議，均依 **WensCo** 相關規定辦理，並可予隨時補充。
 
-{% content-ref url="1.1.md" %}
-[1.1.md](1.1.md)
-{% endcontent-ref %}
 
-{% content-ref url="1.2.md" %}
+[1.1.md](1.1.md)
+
+
+
 [1.2.md](1.2.md)
-{% endcontent-ref %}
+
 

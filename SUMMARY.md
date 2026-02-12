@@ -39,6 +39,4 @@
 
 ## 外部連結 <a href="#link" id="link"></a>
 
-***
-
 * [WensCo 文心會議室](https://meetingtw.com)

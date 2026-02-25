@@ -11,7 +11,7 @@ coverY: 0
 1. 如果您需要更多客製化桌型擺設來滿足會場配置與客戶的要求，WensCo 將盡力滿足您對品質上的堅持。<br>
 2. WensCo 提供基本場地擺設，如下圖所示:
 
-![此為正常會議擺設，依照參與會議人數進行免費放置。](../../.gitbook/assets/112131\(1\).jpg)
+<figure><img src="../../.gitbook/assets/APC_1281.jpg" alt="此為正常會議擺設，依照參與會議人數進行免費放置。"><figcaption><p>此為正常會議擺設，依照參與會議人數進行免費放置。</p></figcaption></figure>
 
 ![此為正常會議擺設，依照參與會議人數進行免費放置。](<../../.gitbook/assets/DSC_7213 (1).webp>)
 
